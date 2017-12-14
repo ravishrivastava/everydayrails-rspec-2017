@@ -20,6 +20,7 @@ group :development, :test do
   gem 'launchy', '~> 2.4.3'
   gem 'database_cleaner'
   gem 'selenium-webdriver'
+  # gem 'poltergeist'  # added for phantomjs
   gem "chromedriver-helper"
 end
 
